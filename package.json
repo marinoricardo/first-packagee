@@ -1,0 +1,19 @@
+{
+  "name": "first-package",
+  "version": "1.0.0",
+  "description": "A test lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marinoricardo/first-package.git"
+  },
+  "author": "Marino Ricardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinoricardo/first-package/issues"
+  },
+  "homepage": "https://github.com/marinoricardo/first-package#readme"
+}
